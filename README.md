@@ -2,6 +2,8 @@
 
 A sleek, interactive, and responsive Quiz Application built with **HTML**, **CSS**, and **Vanilla JavaScript**. This project features a modern "Dark Tech" UI, real-time scoring, and a feedback submission system.
 
+## Try game --> https://parth0205-pg.github.io/Quiz_Game-repo/
+
 ## Features
 
 * **Dark Mode / Tech Theme:** A visually appealing cyberpunk-inspired interface using CSS variables.
