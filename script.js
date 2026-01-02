@@ -47,7 +47,7 @@ const quizQuestions = [
     ],
   },
   {
-    question: "Which of Which Indian state is known as the 'Land of Five Rivers'?",
+    question: "Which Indian state is known as the 'Land of Five Rivers'?",
     answers: [
       { text: "Haryana", correct: false },
       { text: "Rajasthan", correct: false },
